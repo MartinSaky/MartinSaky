@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello,+I'm+Saky!;Data+Science+Student;Python+and+C%2B%2B)
 
